@@ -7,10 +7,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btnOpenZone1Demo"
+        android:id="@+id/btnOpenZone2Demo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Open Zone 1 Demo"
+        android:text="Open Zone 2 Demo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

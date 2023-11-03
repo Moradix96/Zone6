@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "ir.samiantec.zone5"
+    namespace = "ir.samiantec.zone6"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ir.samiantec.zone5"
+        applicationId = "ir.samiantec.zone6"
         minSdk = 27
         targetSdk = 34
         versionCode = 1

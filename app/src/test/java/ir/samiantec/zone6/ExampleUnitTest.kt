@@ -1,4 +1,4 @@
-package ir.samiantec.zone5
+package ir.samiantec.zone6
 
 import org.junit.Test
 

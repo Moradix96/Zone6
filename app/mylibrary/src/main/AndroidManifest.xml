@@ -3,7 +3,7 @@
 
     <application>
         <activity
-            android:name=".Zone1Activity"
+            android:name=".Zone2Activity"
             android:exported="false" />
     </application>
 
