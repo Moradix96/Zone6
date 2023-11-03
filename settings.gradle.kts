@@ -17,6 +17,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Zone5"
+rootProject.name = "Zone6"
 include(":app")
 include(":app:mylibrary")
